@@ -1,6 +1,7 @@
 {
   "name": "sphaget",
   "version": "0.0.1",
+  "description": "HOC to separate concerns of state and effect management for react",
   "source": "src/index.js",
   "module": "dist/index.esm.js",
   "main": "dist/index.js",

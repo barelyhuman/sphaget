@@ -1,5 +1,7 @@
 # sphaget
 
+HOC to separate concerns of state and effect management for react
+
 # WIP
 
 ## Name....?
