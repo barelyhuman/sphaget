@@ -1,6 +1,6 @@
 {
   "name": "sphaget",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "source": "src/index.js",
   "module": "dist/index.esm.js",
   "main": "dist/index.js",
